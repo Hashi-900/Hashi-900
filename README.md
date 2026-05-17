@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammedfarahH1&color=blue&style=flat&label=Profile+views" alt="Profile views" />
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]">
+  <img src="https://komarev.com/ghpvc/?username=Hashi-900&color=blue&style=flat&label=Profile+views" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/muhammed-farah-hashi-251326222/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[YOUR_EMAIL]">
+  <a href="mailto:mfhashi90@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -16,17 +16,22 @@
 
 ## About me
 
-I'm a **data analyst**, **machine learning engineer**, and **business intelligence specialist** with an M.Sc. in Economics — based in Germany.
+I am an economist with double master’s degrees, deeply fascinated by the intersection of economics and machine learning. 
+Based in Germany, my professional interests and expertise lie in **data analytics**, **machine learning engineering**, and **business intelligence**.
 
-My economics background gives me something most data scientists lack: the ability to frame a business problem as a **causal question**, not just a prediction task. I build ML pipelines, BI dashboards, and statistical models that help organisations make better, evidence-based decisions.
-
+My background in economics equips me with a perspective that many data scientists often lack: 
+the ability to rigorously frame business problems, understand the underlying drivers of 
+consumer decision-making, and approach challenges through the lens of **causal inference** rather 
+than mere prediction. I design and develop machine learning pipelines, Quarto dashboards, and 
+advanced statistical models that empower organisations to make informed, evidence-driven decisions, 
+with a particular emphasis on demand estimation, causal inference, and counterfactual analysis for pricing strategy optimisation.
 ```yaml
 Name:        Muhammed Farah Hashi
 Location:    Germany
-Education:   M.Sc. Economics · [YOUR_UNIVERSITY]
+Education:   M.Sc. Applied Economics & Data Science · [Carl von Ossietzky Oldenburg University]
 Focus:       Data Analysis · Machine Learning · Business Intelligence
-Languages:   Python · R · SQL · German (B2) · English (fluent) · Somali (native)
-Status:      [Open to work / Currently at YOUR_COMPANY]
+Languages:   · German (A2) · English (C1) · Turkish (B2) . Arabic(B1)
+Status:      [Open to work / Currently at Carl von Ossietzky Oldenburg University]
 ```
 
 ---
@@ -71,30 +76,23 @@ Status:      [Open to work / Currently at YOUR_COMPANY]
 
 ---
 
-## Featured projects
 
-| Project | Description | Stack | Result |
-|---|---|---|---|
-| [ML Pipeline — Customer Churn](#) | End-to-end churn prediction: EDA → features → model → deployment | Python, scikit-learn, MLflow | 87% AUC |
-| [Economic Inequality Analysis](#) | Deep EDA on income distribution data with economic framing | R, ggplot2, tidyverse | Published notebook |
-| [BI Dashboard — Sales Analytics](#) | Interactive regional sales dashboard with drill-down views | Tableau / Power BI | Live demo |
-| [SQL Analytics Portfolio](#) | Window functions, CTEs, cohort analysis, funnel analysis | PostgreSQL, dbt | 12+ advanced queries |
-| [NLP Text Classifier](#) | German news category classification using transformer models | Python, HuggingFace | 91% F1 score |
-| [Data-sources](#) | Curated, documented data sources for analysis projects | R, HTML | Public resource |
 
-> Replace `#` links with your actual GitHub repo URLs once you build them.
+
 
 ---
 
 ## GitHub stats
 
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedfarahH1&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedfarahH1&layout=compact&hide_border=true&theme=default" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hashi-900&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashi-900&layout=compact&hide_border=true&theme=default" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MuhammedfarahH1&theme=default&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Hashi-900&theme=default&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
@@ -103,8 +101,9 @@ Status:      [Open to work / Currently at YOUR_COMPANY]
 
 | Degree | Institution | Year |
 |---|---|---|
-| M.Sc. Economics | [YOUR_UNIVERSITY], Germany | [YEAR] |
-| B.Sc. [YOUR_SUBJECT] | [YOUR_UNIVERSITY] | [YEAR] |
+| M.Sc. Applied Economics and Data Science | [Carl von Ossietzky Oldenburg University], Germany | [2026] |
+| M.A. Public Policy and Management | [KDI School of Public Policy and Management ], South Korea | [2022] |
+| B.Sc. Economics| [Mogadishu University] | [2012] |
 
 **Key areas of study:** Econometrics · Microeconomics · Quantitative Methods · Game Theory · Economic Modelling
 
@@ -115,26 +114,16 @@ My economics training means I approach data problems differently:
 
 ---
 
-## What I'm working on
 
-- [ ] Building a complete ML pipeline (EDA → model → Streamlit deployment)
-- [ ] Creating a SQL analytics portfolio with advanced queries on public datasets
-- [ ] Writing technical articles on data analysis with an economics lens
-- [ ] [YOUR_CURRENT_GOAL]
-
----
 
 ## Connect with me
 
 <p>
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]">
+  <a href="https://www.linkedin.com/in/muhammed-farah-hashi-251326222/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:[YOUR_EMAIL]">
+  <a href="mailto:mfhashi90@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/MuhammedfarahH1">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <!-- Uncomment and fill in when you have a portfolio site:
   <a href="https://[YOUR_PORTFOLIO]">
