@@ -125,15 +125,12 @@ My economics training means I approach data problems differently:
 
 ## GitHub stats
 
-
-
+<!-- Auto-regenerated nightly by GitHub Actions -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hashi-900&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashi-900&layout=compact&hide_border=true&theme=default" height="165" alt="Top languages" />
+  <img src="./profile/stats.svg" height="165" alt="GitHub stats" />
+  <img src="./profile/top-langs.svg" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Hashi-900&theme=default&hide_border=true" alt="GitHub streak" />
 </p>
-
----
