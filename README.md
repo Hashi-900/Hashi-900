@@ -37,7 +37,7 @@ I design and develop machine learning pipelines, Quarto dashboards, and advanced
 
 ## 📰 Latest News
 
-- **05/2026** 🎓 Successfully completed my M.Sc. in Applied Economics and Data Science at Carl von Ossietzky Oldenburg University!
+- **05/2026**  Currently pursuing an **M.Sc. in Applied Economics and Data Science** at **Carl von Ossietzky University of Oldenburg**
 - **05/2026** 💼 Currently open to work and actively seeking roles in Data Science, Machine Learning, and Econometrics in Germany.
 - **01/2026** 🚀 Developed advanced ML pipelines and Quarto dashboards for demand estimation and pricing strategy optimization.
 - **10/2025** 🏆 Unlocked the *YOLO* and *Pull Shark* achievements on GitHub for my contributions!
